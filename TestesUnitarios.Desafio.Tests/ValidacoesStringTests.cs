@@ -23,7 +23,7 @@ public class ValidacoesStringTests
     }
 
     [Fact]
-    public void DeveConterAPalavraQualquerNoTexto()
+    public void DeveContemAPalavraQualquerNoTexto()
     {
         // Arrange
         var texto = "Esse é um texto qualquer";
